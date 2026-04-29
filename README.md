@@ -5,11 +5,13 @@ This take-home test evaluates a candidate’s modeling skills through 2 main exe
 
 - Theoretical model building from requirements
 - Optimization problem solving
+
 Candidates are allowed to use AI tools to support their work. However, during the interview, you should be prepared to explain the concepts, modeling choices, and solution approach you used in your submission.
 
 ## Scoring 🧮
-Theoretical model building exercise: 30 points
-Optimization exercise: 70 points
+- Theoretical model building exercise: 30 points
+- Optimization exercise: 70 points
+
 Bonus: up to 20 extra points for identifying/fixing setup errors
 
 ## Folder Structure
