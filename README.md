@@ -38,7 +38,9 @@ Please submit your work by following these steps:
 submission_yourfullname
 ```
 Example : submission_duonganhthu
+
 2. You may commit to this branch multiple times during your work.
+
 3. Your final version must be committed with the exact commit message:
 ```
 final_submission
