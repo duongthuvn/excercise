@@ -19,8 +19,8 @@ Bonus: up to 20 extra points for identifying/fixing setup errors
 ``` 
 ├── README.md
 ├── requirements.txt
-├── cutting_optima.ipynb
-├── inventory_optima.ipynb
+├── excercise_1.ipynb
+├── excercise_2.ipynb
 └── code
     ├── model.py
     └── auxiliary.py
