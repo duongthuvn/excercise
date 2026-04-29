@@ -1,0 +1,21 @@
+name: optima  
+channels:  
+  - conda-forge  
+  - anaconda  
+  
+dependencies:  
+  - pip  
+  - ipython  
+  - jupyter  
+  - jupyterlab  
+  - matplotlib  
+  - mkl  
+  - numpy  
+  - pandas  
+  - scipy  
+  - statsmodels  
+  - pulp  
+  - ortools  
+  - highspy  
+  - pip:  
+      - openpyxl
